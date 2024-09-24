@@ -1,0 +1,14 @@
+{
+  "account": {
+    "accountHolder": ["mario"],
+    "payments_number": "1",
+    "payments": [
+      {
+        "date": "09/11/2023",
+        "value": 10.00,
+        "destinyAccount": ["alice"],
+        "description": "Gift"
+      }
+    ]
+  }
+}
